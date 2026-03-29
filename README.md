@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 Squid Interaction
+#  Squid Interaction
 
 ### Place a living ocean floor in your real world
 
@@ -37,7 +37,6 @@
 
 </div>
 
-> 🎬 **Have a screen recording?** Drop it as `assets/demo.gif` in the repo and add this line right here:
 >
 > ![Demo](/demo.gif)
 > 
@@ -59,7 +58,6 @@ The app scans your real-world floor using ARCore, lets you tap to place an ocean
 | 🔍 | **Markerless floor detection** | ARFoundation scans horizontal surfaces in real time — no setup needed |
 | 👆 | **One-tap placement** | Tap any detected surface to anchor the ocean scene |
 | 🦑 | **Low-poly giant squid** | Fully rigged, animated, offset 3m in front of your tap point |
-| 🤙 | **Thumbs Up gesture** | Show a thumbs up to trigger squid animations |
 | 💧 | **Underwater post processing** | URP volume activates on placement — colour grading, depth of field |
 | 🫧 | **Procedural bubbles** | Particle system built at runtime, parented to the ocean floor |
 | 🌫️ | **Exponential depth fog** | Deep teal fog fills the space and fades distant objects |
@@ -277,15 +275,6 @@ The AR Default Plane prefab has an `XR Origin` component on it accidentally. Fix
 
 ---
 
-## 👤 Author
-
-**Sahith CH** — [@sahith-ch](https://github.com/sahith-ch)
-
----
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
