@@ -67,7 +67,6 @@ The app scans your real-world floor using ARCore, lets you tap to place an ocean
 
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/⬇%20Download%20Latest%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](YOUR_APK_LINK_HERE)
 
 </div>
 
