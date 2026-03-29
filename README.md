@@ -4,7 +4,7 @@
 
 ### Place a living ocean floor in your real world
 
-**Point your phone at any floor. Tap once. Watch a giant squid emerge from the deep — surrounded by drifting bubbles and underwater fog — anchored to your actual room.**
+**Point your phone at any floor. Tap once. Watch a giant squid emerge from the deep — surrounded by drifting bubbles and underwater fog .**
 
 <br/>
 
