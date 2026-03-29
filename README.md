@@ -16,10 +16,6 @@
 
 <br/>
 
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
-&nbsp;&nbsp;
-[![Download APK](https://img.shields.io/badge/⬇%20Download%20APK-4CAF50?style=for-the-badge&logo=android&logoColor=white)](YOUR_APK_LINK_HERE)
-
 </div>
 
 ---
