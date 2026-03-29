@@ -33,7 +33,7 @@
 | ![Squid wide shot](screenshot1.png) | ![Squid with bubbles](screenshot2.png) |
 | *Low-poly giant squid on the ocean floor* | *Bubbles drifting upward, teal depth fog* |
 | ![Squid close angle](screenshot3.png) | ![Squid gesture pose](screenshot4.png) |
-| *Walking around the squid in AR* | *Thumbs-up gesture triggers animation* |
+| *Walking around the squid in AR* | *Tapping the triggers ink animation* |
 
 </div>
 
