@@ -38,9 +38,9 @@
 </div>
 
 > 🎬 **Have a screen recording?** Drop it as `assets/demo.gif` in the repo and add this line right here:
-> ```md
-> ![Demo](assets/demo.gif)
-> ```
+>
+> ![Demo](/demo.gif)
+> 
 
 ---
 
